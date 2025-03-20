@@ -1,0 +1,214 @@
+[
+    {
+      "_id": "1",
+      "brand_name": "Daraz",
+      "rating": 4.5,
+      "description": "Daraz is one of the largest online marketplaces in Bangladesh offering a variety of products and deals.",
+      "brand_logo": "https://i.ibb.co.com/gyQqC5v/darazf.png",
+      "coupons": [
+        {
+          "coupon_code": "DARAZ10",
+          "description": "Get 10% off on your first purchase.",
+          "expiry_date": "2024-12-31",
+          "condition": "Minimum purchase of 500 BDT.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREEDELIVERY",
+          "description": "Free delivery on orders over 2000 BDT.",
+          "expiry_date": "2024-06-30",
+          "condition": "For selected locations only.",
+          "coupon_type": "Delivery"
+        }
+      ],
+      "shop_link": "https://daraz.com.bd",
+      "category": "Marketplace",
+      "isSaleOn": true
+    },
+    {
+      "_id": "2",
+      "brand_name": "Chaldal",
+      "rating": 4.7,
+      "description": "Chaldal is a leading online grocery delivery service in Bangladesh.",
+      "brand_logo": "https://i.ibb.co.com/hRF9Xgx/Chaldal-com-logo.png",
+      "coupons": [
+        {
+          "coupon_code": "CHALDAL5",
+          "description": "Flat 5% off on all grocery items.",
+          "expiry_date": "2024-05-15",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://chaldal.com",
+      "category": "Grocery",
+      "isSaleOn": false
+    },
+    {
+      "_id": "3",
+      "brand_name": "Bikroy",
+      "rating": 4.3,
+      "description": "Bikroy is the largest online marketplace in Bangladesh for buying and selling items.",
+      "brand_logo": "https://i.ibb.co.com/TLB6Ns2/bikroyf.png",
+      "coupons": [
+        {
+          "coupon_code": "POSTFREE",
+          "description": "Post your first ad for free.",
+          "expiry_date": "2024-12-31",
+          "condition": "Only for new users.",
+          "coupon_type": "Ad Post"
+        }
+      ],
+      "shop_link": "https://bikroy.com",
+      "category": "Marketplace",
+      "isSaleOn": true
+    },
+    {
+      "_id": "4",
+      "brand_name": "Shwapno",
+      "rating": 4.6,
+      "description": "Shwapno is a top grocery and lifestyle retail chain in Bangladesh.",
+      "brand_logo": "https://i.ibb.co.com/TcTVMgh/b121f789-c569-498a-9bb2-36ebd07d1787.png",
+      "coupons": [
+        {
+          "coupon_code": "SHOP20",
+          "description": "20% off on fresh vegetables.",
+          "expiry_date": "2024-04-30",
+          "condition": "Applicable in Dhaka only.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://shwapno.com",
+      "category": "Grocery",
+      "isSaleOn": false
+    },
+    {
+      "_id": "5",
+      "brand_name": "Star Tech",
+      "rating": 4.8,
+      "description": "Star Tech is the go-to destination for IT products and gadgets in Bangladesh.",
+      "brand_logo": "https://i.ibb.co.com/NNPjrGG/startechf.png",
+      "coupons": [
+        {
+          "coupon_code": "TECH5",
+          "description": "Get 5% off on selected laptops.",
+          "expiry_date": "2024-08-30",
+          "condition": "Applicable on selected models only.",
+          "coupon_type": "Discount"
+        },
+        {
+            "coupon_code": "GAMER10",
+            "description": "10% off on gaming accessories.",
+            "expiry_date": "2024-10-15",
+            "condition": "Minimum purchase of 3000 BDT required.",
+            "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://startech.com.bd",
+      "category": "Electronics",
+      "isSaleOn": true
+    },
+    {
+      "_id": "6",
+      "brand_name": "Rokomari",
+      "rating": 4.7,
+      "description": "Rokomari is the largest online bookstore in Bangladesh.",
+      "brand_logo": "https://i.ibb.co.com/fnZvHyX/Rokomari.png",
+      "coupons": [
+        {
+          "coupon_code": "BOOKLOVER",
+          "description": "Flat 15% off on books.",
+          "expiry_date": "2024-07-31",
+          "condition": "Valid on purchases above 1000 BDT.",
+          "coupon_type": "Discount"
+        },
+        {
+            "coupon_code": "STATIONERY10",
+            "description": "10% off on stationery items.",
+            "expiry_date": "2024-05-30",
+            "condition": "No minimum purchase required.",
+            "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://rokomari.com",
+      "category": "Books",
+      "isSaleOn": false
+    },
+    {
+      "_id": "7",
+      "brand_name": "Arogga",
+      "rating": 4.4,
+      "description": "Arogga is Bangladesh's trusted online pharmacy.",
+      "brand_logo": "https://i.ibb.co.com/WDVKzQn/logo-green-af18cf83.png",
+      "coupons": [
+        {
+          "coupon_code": "MED10",
+          "description": "10% off on prescription medicines.",
+          "expiry_date": "2024-09-30",
+          "condition": "Prescription required.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://arogga.com",
+      "category": "Health",
+      "isSaleOn": true
+    },
+    {
+      "_id": "8",
+      "brand_name": "Foodpanda",
+      "rating": 4.5,
+      "description": "Foodpanda delivers your favorite meals right to your doorstep.",
+      "brand_logo": "https://i.ibb.co.com/N2BxHr9/Screen-Shot-11-19-2024-at-12-35-PM.png",
+      "coupons": [
+        {
+          "coupon_code": "FOODIE50",
+          "description": "50% off on first order.",
+          "expiry_date": "2024-03-31",
+          "condition": "Maximum discount of 100 BDT.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://foodpanda.com.bd",
+      "category": "Food Delivery",
+      "isSaleOn": true
+    },
+    {
+      "_id": "9",
+      "brand_name": "Walton Plaza",
+      "rating": 4.6,
+      "description": "Walton Plaza offers a wide range of electronics and home appliances.",
+      "brand_logo": "https://i.ibb.co.com/jTFsw2Z/Screen-Shot-11-22-2024-at-3-44-AM.png",
+      "coupons": [
+        {
+          "coupon_code": "HOME10",
+          "description": "10% off on air conditioners.",
+          "expiry_date": "2024-10-31",
+          "condition": "Available on selected models.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://waltonplaza.com.bd",
+      "category": "Electronics",
+      "isSaleOn": false
+    },
+    {
+      "_id": "10",
+      "brand_name": "Apex",
+      "rating": 4.7,
+      "description": "Apex offers quality footwear for men, women, and children.",
+      "brand_logo": "https://i.ibb.co.com/D9YHb3p/apex-logo.png",
+      "coupons": [
+        {
+          "coupon_code": "SHOES15",
+          "description": "15% off on all footwear.",
+          "expiry_date": "2024-11-30",
+          "condition": "Applicable online only.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://apex4u.com",
+      "category": "Fashion",
+      "isSaleOn": true
+    }
+  ]
+  
